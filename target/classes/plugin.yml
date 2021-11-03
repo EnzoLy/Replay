@@ -1,0 +1,6 @@
+main: live.ghostly.replay.ReplayPlugin
+name: Replay
+version: 0.1
+author: EnzoL_
+depend:
+  - ProtocolLib
